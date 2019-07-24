@@ -7,7 +7,7 @@ The full corpus of size 3552 is available in [this link](https://drive.google.co
 ## Recordings
 The speech corpus of size 7104 is NOW AVAILABLE. </br>
 Tentatively, due to the file size (~2GB), we provide the dataset upon request. </br>
-Please e-mail to tsatsuki@naver.com for the data acquisition.
+Please e-mail to tsatsuki@snu.ac.kr for the data acquisition.
 
 ## Citation (tentative)
 ```
