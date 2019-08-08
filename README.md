@@ -6,8 +6,8 @@ The full corpus of size 3552 is available in [this link](https://drive.google.co
 
 ## Recordings
 The speech corpus of size 7104 is NOW AVAILABLE. </br>
-Tentatively, due to the file size (~2GB), we provide the dataset upon request. </br>
-Please e-mail to tsatsuki@snu.ac.kr for the data acquisition.
+We have a [download link](https://www.dropbox.com/s/3tm6ylu21jpmnj8/ProSem_KOR_speech.zip?dl=0) via dropbox (ZIP File size 998MB). </br>
+If there's any problem in the process, don't hesitate to e-mail tsatsuki@snu.ac.kr (maintainer).
 
 ## Citation (tentative)
 ```
