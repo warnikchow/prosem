@@ -15,7 +15,7 @@ If there's any problem in the process, don't hesitate to e-mail tsatsuki@snu.ac.
 	title={Prosody-semantics interface in Seoul Korean: Corpus for a disambiguation of wh-intervention},
 	author={Cho, Won Ik and Cho, Jeonghwa and Kang, Jeemin and Kim, Nam Soo},
 	booktitle={Proceedings of the 19th International Congress of the Phonetic Sciences},
-	pages={(pages to appear)},
+	pages={3902--3906},
 	year={2019}
 }
 ```
