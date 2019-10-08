@@ -9,12 +9,13 @@ The speech corpus of size 7104 is NOW AVAILABLE. </br>
 We have a [download link](https://www.dropbox.com/s/3tm6ylu21jpmnj8/ProSem_KOR_speech.zip?dl=0) via dropbox (ZIP File size 998MB). </br>
 If there's any problem in the process, don't hesitate to e-mail tsatsuki@snu.ac.kr (maintainer).
 
-## Citation (tentative)
+## Citation
+Cite [this ICPhS paper](http://www.assta.org/proceedings/ICPhS2019/papers/ICPhS_3951.pdf) to utilize the dataset.
 ```
 @inproceedings{cho2019prosody,
 	title={Prosody-semantics interface in Seoul Korean: Corpus for a disambiguation of wh-intervention},
 	author={Cho, Won Ik and Cho, Jeonghwa and Kang, Jeemin and Kim, Nam Soo},
-	booktitle={Proceedings of the 19th International Congress of the Phonetic Sciences},
+	booktitle={Proceedings of the 19th International Congress of the Phonetic Sciences (ICPhS 2019)},
 	pages={3902--3906},
 	year={2019}
 }
